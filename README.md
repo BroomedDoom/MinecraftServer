@@ -5,7 +5,8 @@ BlockHost is a simple Windows app for running a Minecraft Java server and sharin
 This guide is written for someone downloading this project from GitHub for the first time. BlockHost currently supports **Windows** and **Vanilla Minecraft Java servers**.
 
 
-NOTE: For easiest install, run the release BlockHost-Setup.exe
+#NOTE: For easiest install, run the release BlockHost-Setup.exe
+
 ## What you need
 
 - A Windows 10 or 11 computer that can stay on while people play.
