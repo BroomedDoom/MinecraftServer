@@ -16,6 +16,13 @@ This guide is written for someone downloading this project from GitHub for the f
 - The Windows playit agent. Download it from the [official playit agent releases](https://github.com/playit-cloud/playit-agent/releases/latest). Choose the Windows x64 file (`playit-windows-x86_64.exe`).
 - Python, Java, and Playit should all be installed via the `BlockHost-Setup.exe`
 
+## After you run `BlockHost-Setup.exe`
+- Go to your apps and run BlockHost
+- Then, set your Java and Playit executables. Most likely, they will be located at `C:/Program Files/Java/jdk-25.0.4.1/bin/javaw.exe` and `C:\Program Files\playit_gg\bin\playit.exe`
+- Set your server folder to wherever you want your server files (Suggested: Documents or Desktop folder, add a folder named "server")
+- Once you do that, press server setup
+- After server setup finishes, run the server
+
 ## To Connect the Playit Agent to your account
 
 The first time BlockHost starts the playit agent, look in the app's console for a Playit claim link or code.
