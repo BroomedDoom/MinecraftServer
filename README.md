@@ -5,7 +5,7 @@ BlockHost is a simple Windows app for running a Minecraft Java server and sharin
 This guide is written for someone downloading this project from GitHub for the first time. BlockHost currently supports **Windows** and **Vanilla Minecraft Java servers**.
 
 
-# NOTE: For easiest install, run the release BlockHost-Setup.exe
+# NOTE: For easiest install, run the release `BlockHost-Setup.exe`
 
 ## What you need
 
@@ -14,6 +14,7 @@ This guide is written for someone downloading this project from GitHub for the f
 - A free [playit.gg account](https://playit.gg/).
 - Python 3.10 or newer and Java installed. Java must support the Minecraft version you choose.
 - The Windows playit agent. Download it from the [official playit agent releases](https://github.com/playit-cloud/playit-agent/releases/latest). Choose the Windows x64 file (`playit-windows-x86_64.exe`).
+- Python, Java, and Playit should all be installed via the `BlockHost-Setup.exe`
 
 ## To Connect the Playit Agent to your account
 
